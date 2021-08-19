@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Automatic Speech Recognition
+- 🔭 I’m currently working on Computer Vision and NLP
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Maths behind Deep Learning
