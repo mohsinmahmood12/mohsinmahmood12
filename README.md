@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Maths behind Deep Learning
 - 💬 Ask me about Computer vision and NLP
 - 📫 How to reach me: Linkedin
+
+#Tech Stack 
+* Python
