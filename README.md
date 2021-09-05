@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinmahmood12"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinmahmood12"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinmahmood12"/>
