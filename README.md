@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Computer vision and NLP
 - 📫 How to reach me: Linkedin
 
-#Tech Stack 
-* Python
