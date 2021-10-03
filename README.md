@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Maths behind Deep Learning
-- 💬 Ask me about Computer vision and NLP
+- 💬 Ask me about Advanced C++ & Machine Learning
 - 📫 How to reach me: Linkedin
 
 ---
