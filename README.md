@@ -6,12 +6,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Computer Vision and NLP
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Maths behind Deep Learning
-- 💬 Ask me about Advanced C++ & Machine Learning
-- 📫 How to reach me: Linkedin
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohsin Mehmood!
+
+- 🔭 I’m currently working as a Machine Learning Engineer at DiveDeepAI, focusing on AI solutions, deep learning models, and robust API interfaces.
+- 🌱 I’ve worked extensively with Python, C, C++, JavaScript, Rust, Golang, SQL, and various frameworks & technologies like FastAPI, Flask, PyTorch, TensorFlow, OpenCV, and more.
+- 👯 I’m looking to collaborate on open-source projects related to AI, NLP, and Computer Vision.
+- 🤔 I’m always eager to dive deep into the maths behind Deep Learning.
+- 💬 Ask me about Advanced C++, Machine Learning, and my experience in AI-driven platforms.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohsin-mehmood675/) | [Upwork](https://www.upwork.com/freelancers/~01ad48967723806723)
 
 ---
 
