@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 -->
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohsin Mehmood!
 
 - 🔭 I’m currently working as a Machine Learning Engineer at DiveDeepAI, focusing on AI solutions, deep learning models, and robust API interfaces.
 - 🌱 I’ve worked extensively with Python, C, C++, JavaScript, Rust, Golang, SQL, and various frameworks & technologies like FastAPI, Flask, PyTorch, TensorFlow, OpenCV, and more.
