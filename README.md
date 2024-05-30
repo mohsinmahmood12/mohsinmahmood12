@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently looking for a full-time AI/ML Engineer Role.
-- 🌱 I’ve worked extensively with Python, C, C++, JavaScript, Rust, Golang, SQL, and various frameworks & technologies like FastAPI, Flask, PyTorch, TensorFlow, OpenCV, and more.
+- 🌱 I’ve worked extensively with Python, C, C++, JavaScript, SQL, and various frameworks & technologies like FastAPI, Flask, PyTorch, TensorFlow, OpenCV, and more.
 - 👯 I’m looking to collaborate on open-source projects related to AI, NLP, and Computer Vision.
 - 🤔 I’m always eager to dive deep into the maths behind Deep Learning.
-- 💬 Ask me about Advanced C++, Machine Learning, and my experience in AI-driven platforms.
+- 💬 Ask me about Machine Learning, NLP, and my experience in AI-driven platforms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohsin-mehmood675/) | [Upwork](https://www.upwork.com/freelancers/~01ad48967723806723)
 
 ---
