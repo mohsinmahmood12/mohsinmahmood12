@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently looking for a full-time AI/ML Engineer Role.
+- 🔭 I’m currently working as a Senior Data Scientist at Exora AI.
 - 🌱 I’ve worked extensively with Python, C, C++, JavaScript, SQL, and various frameworks & technologies like FastAPI, Flask, PyTorch, TensorFlow, OpenCV, and more.
 - 👯 I’m looking to collaborate on open-source projects related to AI, NLP, and Computer Vision.
 - 🤔 I’m always eager to dive deep into the maths behind Deep Learning.
